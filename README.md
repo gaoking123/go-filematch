@@ -1,4 +1,4 @@
-Filematch [![Build Status](https://travis-ci.org/lnsp/filematch?branch=master)](https://travis-ci.org/lnsp/filematch)
+Filematch [![Build Status](https://travis-ci.org/lnsp/filematch.svg?branch=master)](https://travis-ci.org/lnsp/filematch)
 =========
 
 Package filematch provides path matching.
